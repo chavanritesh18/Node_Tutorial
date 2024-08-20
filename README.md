@@ -1,6 +1,6 @@
     ### Node Tutorial ###
  
-     ![image](https://github.com/user-attachments/assets/b77f5c8b-0d35-45c1-b8da-61adc1092537)
+    
 
 
     This tutorial consists all the code required for the backednd setup with comments in it for better understand.
